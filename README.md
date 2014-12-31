@@ -73,7 +73,7 @@ public class notebookStack_Driver
     } while (check == 'Y' || check == 'y');
   }
 }
-Second class
+Notebook Stack
 ==============
 import java.util.Scanner;
 import java.util.ArrayList;
