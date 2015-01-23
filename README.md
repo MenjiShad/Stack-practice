@@ -1,3 +1,3 @@
-Stack-practice
+Stack practice
 ==============
 CECS274 Lab 
